@@ -4,10 +4,10 @@ body {
     display: block;
     font-size: 50.5%;
   }
-  Heading {
+  #mainHeading {
     background-color: red;
   }
-  p {
+  testp.funparagraph {
     background-color: green;
   }
   img {
